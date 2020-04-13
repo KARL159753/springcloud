@@ -2,7 +2,7 @@ zuul:
   routes:
     item-service:
       path: /item-service/**
-      serviceid: app-item
+      serviceid: app-itemxx
     order-service:
       path: /order-service/**
-      serviceid: app-order
+      serviceid: app-orderxx
